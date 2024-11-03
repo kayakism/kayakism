@@ -30,7 +30,24 @@ let sites = [
   'https://geocities.restorativland.org/TimesSquare/Realm/2659/',
   'https://www.eatonhand.com/fun/humor.htm',
   'https://web.archive.org/web/20090830110940/http://geocities.com/Paris/Salon/8611/',
-  'https://web.archive.org/web/20070707085309/http://www.geocities.com/TimesSquare/4897/'
+  'https://web.archive.org/web/20070707085309/http://www.geocities.com/TimesSquare/4897/',
+  'https://web.archive.org/web/20090830073341/http://geocities.com/SiliconValley/Hills/7282/Image8.gif',
+  'https://geocities.restorativland.org/CollegePark/Residence/1896/',
+  'https://geocities.restorativland.org/CollegePark/Residence/2140/',
+  'https://geocities.restorativland.org/SiliconValley/Drive/1078/',
+  'https://geocities.restorativland.org/RainForest/Andes/3939/',
+  'https://geocities.restorativland.org/RainForest/Andes/4804/',
+  'https://geocities.restorativland.org/SiliconValley/Garage/1841/',
+  'https://geocities.restorativland.org/SiliconValley/Drive/4374/',
+  'https://geocities.restorativland.org/SouthBeach/Gulf/2050/',
+  'https://web.archive.org/web/20000815053052/http://www.startrek.com/',
+  'https://web.archive.org/web/20031001172053/http://www.dolekemp96.org/main.htm',
+  'https://geocities.restorativland.org/TimesSquare/Labyrinth/1078/',
+  'https://geocities.restorativland.org/TimesSquare/Labyrinth/4663/',
+  'https://web.archive.org/web/19961220075514/http://linkmag.com/',
+  'https://web.archive.org/web/19961221020103/http://inngames.com/',
+  'https://geocities.restorativland.org/TimesSquare/Labyrinth/8271/',
+  'https://web.archive.org/web/19980627023840/http://www.megsplace.com/Beanies/'
 ];
 
 function randomSite() {

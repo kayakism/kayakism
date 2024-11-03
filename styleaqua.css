@@ -12,7 +12,7 @@ html,
 body {
   height: 100%;
   width: 100%;
-  background-image: url("https://wallpapers.com/images/hd/underwater-background-oepaymjqd9zy7i7v.jpg");
+  background-image: url("https://i.redd.it/iwwak5n9mwa01.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -21,6 +21,15 @@ body {
   font-family: monospace;
   overflow-y: auto;
   overflow-x: hidden;
+}
+
+text {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  color: red;
+}
+
+table {
+  border-spacing: 10rem 1rem;
 }
 
 .marqueetop {
@@ -115,12 +124,9 @@ body {
 }
 
 .mcenter {
-  flex: 1 0 0;
-  text-align: center;
   border: none;
   margin-left: auto;
   margin-right: auto;
-  justify-content: center;
 }
 
 .mcenter img {

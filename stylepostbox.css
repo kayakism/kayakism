@@ -12,7 +12,7 @@ html,
 body {
   height: 100%;
   width: 100%;
-  background-image: url("pics/18.jpg");
+  background-image: url("pics/14.jpg");
   background-size: cover;
   background-position: center;
   margin: 0;
@@ -76,13 +76,17 @@ a {
   background: #fafefb;
   box-shadow: inset -1px -1px #fff, inset 1px 1px grey, inset -2px -2px #dfdfdf, inset 2px 2px #0a0a0a;
   text-align: left;
-  display: flexbox;
   margin: 0;
   padding: 12px 10px;
   width: 35%;
   max-height: 600px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.mcenter img {
+  margin: auto;
+  display: block;
 }
 
 .text {

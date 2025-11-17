@@ -14,7 +14,7 @@ body {
   width: 100%;
   background-image: url("pics/livingroom.jpg");
   background-size: cover;
-  background-position: center;
+  background-position: bottom;
   margin: 0;
   padding: 0;
   font-family: monospace;
